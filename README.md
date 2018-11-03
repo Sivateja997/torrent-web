@@ -15,11 +15,9 @@ Torrent Web is a self hosted server. It lets you direct download torrents with a
 ## Get your own (Advanced)
 - Have [node.js](https://nodejs.org/) installed and port 80 available.
 - In a command prompt, type: ```npm install -g torrent-web```
-- Once done, run it with: ```torrent-web```
+- Once done, run it with: ```torrent-web -p=8080```
 - Visit [http://localhost/](http://localhost/) in your browser.
 
-### Command line options
-Change the port with --port= or -p=  
-`torrent-web -p=8080`
 
-###### © 2015 Andrea Stella, ISC license.
+
+###### © daydreamerzz, ISC license.
